@@ -265,3 +265,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T23:26:11.460Z,33.962,-117.0676667,11.84,1.21,ml,25.0,99.0,0.1369,0.24,ci,ci40199744,2022-03-04T23:29:52.823Z,"3km SSW of Calimesa, CA",earthquake,0.42,1.42,0.267,31.0,automatic,ci,ci
 2022-03-04T23:16:10.820Z,33.3753333,-116.3755,3.13,0.98,ml,26.0,85.0,0.05664,0.2,ci,ci40199736,2022-03-04T23:19:41.139Z,"13km N of Borrego Springs, CA",earthquake,0.3,0.91,0.127,25.0,automatic,ci,ci
 2022-03-04T23:15:00.730Z,36.6121674,-121.0688324,9.07,1.7,md,9.0,140.0,0.04105,0.15,nc,nc73701301,2022-03-04T23:26:10.224Z,"11km NE of Pinnacles, CA",earthquake,0.73,1.33,0.19,12.0,automatic,nc,nc
+2022-03-04T23:44:26.630Z,33.4710007,-116.4831696,9.97,1.18,ml,29.0,117.0,0.09508,0.15,ci,ci40199760,2022-03-04T23:46:31.772Z,"20km ESE of Anza, CA",earthquake,0.34,0.82,0.216,10.0,automatic,ci,ci
